@@ -1,0 +1,7 @@
+
+cordinates   x   y
+eye1       113 168
+eye2       196 160
+nose       161 223
+mouth      127 258
+           197 249
